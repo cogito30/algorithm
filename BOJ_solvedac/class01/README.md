@@ -2,8 +2,8 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 001 | [A+B](https://www.acmicpc.net/problem/1000) | [Solution](./01_A+B.cpp) | [Description]() | ✅ |
-| 002 | [A-B](https://www.acmicpc.net/problem/1001) | [Solution](./02_A-B.cpp) | [Description]() | ✅ |
+| 001 | [A+B](https://www.acmicpc.net/problem/1000) | [Solution](./solution/01_A+B.cpp) | [Description]() | ✅ |
+| 002 | [A-B](https://www.acmicpc.net/problem/1001) | [Solution](./solution/02_A-B.cpp) | [Description]() | ✅ |
 | 003 | []() | [Solution]() | [Description]() |  |
 | 004 | []() | [Solution]() | [Description]() |  |
 | 005 | []() | [Solution]() | [Description]() |  |
