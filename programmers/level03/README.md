@@ -1,8 +1,8 @@
-# Programmers(Lv1)
+# Programmers(Lv3)
 
 | No | Question | Solution | Description | 
 | :--: | :--: | :--: | :--: |
-| 1 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [Solution]() | [Description]() |
+| 01 | []() | [Solution]() | [Description]() |
 | 02 | []() | [Solution]() | [Description]() |
 | 03 | []() | [Solution]() | [Description]() |
 | 04 | []() | [Solution]() | [Description]() |
