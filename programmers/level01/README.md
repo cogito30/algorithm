@@ -62,58 +62,56 @@
 | 45 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=cpp) | [Solution]() | [Description]() |  |
 | 46 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=cpp) | [Solution]() | [Description]() |  |
 | 47 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=cpp) | [Solution]() | [Description]() |  |
-| 48 | []() | [Solution]() | [Description]() |  |
-| 49 | []() | [Solution]() | [Description]() |  |
-| 50 | []() | [Solution]() | [Description]() |  |
+| 48 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) | [Solution]() | [Description]() |  |
+| 49 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=cpp) | [Solution]() | [Description]() |  |
+| 50 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 51 | []() | [Solution]() | [Description]() |  |
-| 52 | []() | [Solution]() | [Description]() |  |
-| 53 | []() | [Solution]() | [Description]() |  |
-| 54 | []() | [Solution]() | [Description]() |  |
-| 55 | []() | [Solution]() | [Description]() |  |
-| 56 | []() | [Solution]() | [Description]() |  |
-| 57 | []() | [Solution]() | [Description]() |  |
-| 58 | []() | [Solution]() | [Description]() |  |
-| 59 | []() | [Solution]() | [Description]() |  |
-| 60 | []() | [Solution]() | [Description]() |  |
+| 51 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=cpp) | [Solution]() | [Description]() |  |
+| 52 | [업는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=cpp) | [Solution]() | [Description]() |  |
+| 53 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) | [Solution]() | [Description]() |  |
+| 54 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=cpp) | [Solution]() | [Description]() |  |
+| 55 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=cpp) | [Solution]() | [Description]() |  |
+| 56 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=cpp) | [Solution]() | [Description]() |  |
+| 57 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=cpp) | [Solution]() | [Description]() |  |
+| 58 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=cpp) | [Solution]() | [Description]() |  |
+| 59 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=cpp) | [Solution]() | [Description]() |  |
+| 60 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 61 | []() | [Solution]() | [Description]() |  |
-| 62 | []() | [Solution]() | [Description]() |  |
-| 63 | []() | [Solution]() | [Description]() |  |
-| 64 | []() | [Solution]() | [Description]() |  |
-| 65 | []() | [Solution]() | [Description]() |  |
-| 66 | []() | [Solution]() | [Description]() |  |
-| 67 | []() | [Solution]() | [Description]() |  |
-| 68 | []() | [Solution]() | [Description]() |  |
-| 69 | []() | [Solution]() | [Description]() |  |
-| 70 | []() | [Solution]() | [Description]() |  |
+| 61 | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502?language=cpp) | [Solution]() | [Description]() |  |
+| 62 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=cpp) | [Solution]() | [Description]() |  |
+| 63 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=cpp) | [Solution]() | [Description]() |  |
+| 64 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=cpp) | [Solution]() | [Description]() |  |
+| 65 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=cpp) | [Solution]() | [Description]() |  |
+| 66 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=cpp) | [Solution]() | [Description]() |  |
+| 67 | [가장 가까운 같은글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=cpp) | [Solution]() | [Description]() |  |
+| 68 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=cpp) | [Solution]() | [Description]() |  |
+| 69 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp) | [Solution]() | [Description]() |  |
+| 70 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 71 | []() | [Solution]() | [Description]() |  |
-| 72 | []() | [Solution]() | [Description]() |  |
-| 73 | []() | [Solution]() | [Description]() |  |
-| 74 | []() | [Solution]() | [Description]() |  |
-| 75 | []() | [Solution]() | [Description]() |  |
-| 76 | []() | [Solution]() | [Description]() |  |
-| 77 | []() | [Solution]() | [Description]() |  |
-| 78 | []() | [Solution]() | [Description]() |  |
-| 79 | []() | [Solution]() | [Description]() |  |
-| 80 | []() | [Solution]() | [Description]() |  |
+| 71 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=cpp) | [Solution]() | [Description]() |  |
+| 72 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=cpp) | [Solution]() | [Description]() |  |
+| 73 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=cpp) | [Solution]() | [Description]() |  |
+| 74 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=cpp) | [Solution]() | [Description]() |  |
+| 75 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=cpp) | [Solution]() | [Description]() |  |
+| 76 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=cpp) | [Solution]() | [Description]() |  |
+| 77 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871?language=cpp) | [Solution]() | [Description]() |  |
+| 78 | [PCCE 기출문제 10번: 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121?language=cpp) | [Solution]() | [Description]() |  |
+| 79 | [PCCE 기출문제 9번: 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125?language=cpp) | [Solution]() | [Description]() |  |
+| 80 | [PCCE 기출문제 1번: 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 81 | []() | [Solution]() | [Description]() |  |
-| 82 | []() | [Solution]() | [Description]() |  |
-| 83 | []() | [Solution]() | [Description]() |  |
-| 84 | []() | [Solution]() | [Description]() |  |
-| 85 | []() | [Solution]() | [Description]() |  |
-| 86 | []() | [Solution]() | [Description]() |  |
-| 87 | []() | [Solution]() | [Description]() |  |
-| 88 | []() | [Solution]() | [Description]() |  |
-| 89 | []() | [Solution]() | [Description]() |  |
-| 90 | []() | [Solution]() | [Description]() |  |
+| 81 | [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712?language=cpp) | [Solution]() | [Description]() |  |
+| 82 | [PCCE 기출문제 10번: 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198?language=cpp) | [Solution]() | [Description]() |  |
+| 83 | [PCCE 기출문제 9번: 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199?language=cpp) | [Solution]() | [Description]() |  |
+| 84 | [PCCE 기출문제 1번: 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=cpp) | [Solution]() | [Description]() |  |
+| 85 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351?language=cpp) | [Solution]() | [Description]() |  |
+| 86 | [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478?language=cpp) | [Solution]() | [Description]() |  |
+| 87 | [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | [Solution]() | [Description]() |  |
+| 88 | [노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371?language=cpp) | [Solution]() | [Description]() |  |
