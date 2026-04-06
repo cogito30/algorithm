@@ -5,11 +5,11 @@
 | 001 | [즁복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583?language=cpp) | [Solution](./solution/01_중복된_숫자_개수.cpp) | [Description]() | ✅ |
 | 002 | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585?language=cpp) | [Solution](./solution/02_머쓱이보다_키_큰_사람.cpp) | [Description]() | ✅ |
 | 003 | [두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=cpp) | [Solution](./solution/03_두_수의_합_구하기.cpp) | [Description]() | ✅ |
-| 004 | [두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=cpp) | [Solution]() | [Description]() |  |
-| 005 | [두 수의 곱 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=cpp) | [Solution]() | [Description]() |  |
-| 006 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=cpp) | [Solution]() | [Description]() |  |
-| 007 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=cpp) | [Solution]() | [Description]() |  |
-| 008 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=cpp) | [Solution]() | [Description]() |  |
+| 004 | [두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=cpp) | [Solution](./solution/004_두_수의_차_구하기.cpp) | [Description]() | ✅ |
+| 005 | [두 수의 곱 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=cpp) | [Solution](./solution/005_두_수의_곱_구하기.cpp) | [Description]() | ✅ |
+| 006 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=cpp) | [Solution](./solution/006_몫_구하기.cpp) | [Description]() | ✅ |
+| 007 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=cpp) | [Solution](./solution/007_두_수의_나눗셈.cpp) | [Description]() | ✅ |
+| 008 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=cpp) | [Solution](./solution/008_숫자_비교하기.cpp) | [Description]() | ✅ |
 | 009 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=cpp) | [Solution]() | [Description]() |  |
 | 010 | [배열 두 배 반들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809?language=cpp) | [Solution]() | [Description]() |  |
 

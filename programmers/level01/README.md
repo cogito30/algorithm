@@ -16,12 +16,12 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 011 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=cpp) | [Solution]() | [Description]() | ✅ |
+| 011 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=cpp) | [Solution](./solution/011_서울에서_김서방_찾기.cpp) | [Description]() | ✅ |
 | 012 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=cpp) | [Solution]() | [Description]() |  |
 | 013 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=cpp) | [Solution](.solution/13_수박수박수박수박수박수.cpp) | [Description]() | ✅ |
-| 014 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=cpp) | [Solution]() | [Description]() |  |
+| 014 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=cpp) | [Solution](./solution/014_문자열을_정수로_바꾸기.cpp) | [Description]() | ✅ |
 | 015 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=cpp) | [Solution]() | [Description]() |  |
-| 016 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=cpp) | [Solution]() | [Description]() |  |
+| 016 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=cpp) | [Solution](./solution/016_약수의_합.cpp) | [Description]() | ✅ |
 | 017 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp) | [Solution]() | [Description]() |  |
 | 018 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) | [Solution](./solution/18_자릿수_더하기.cpp) | [Description]() | ✅ |
 | 019 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=cpp) | [Solution](./solution/19_자연수_뒤집어_배열로_만들기.cpp) | [Description]() | ✅ |
@@ -32,11 +32,11 @@
 | 021 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=cpp) | [Solution]() | [Description]() |  |
 | 022 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=cpp) | [Solution]() | [Description]() |  |
 | 023 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=cpp) | [Solution]() | [Description]() |  |
-| 024 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp) | [Solution]() | [Description]() |  |
+| 024 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp) | [Solution](./solution/023_짝수와_홀수.cpp) | [Description]() | ✅ |
 | 025 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=cpp) | [Solution]() | [Description]() |  |
-| 026 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=cpp) | [Solution]() | [Description]() |  |
+| 026 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=cpp) | [Solution](./solution/026_평균구하기.cpp) | [Description]() | ✅ |
 | 027 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=cpp) | [Solution]() | [Description]() |  |
-| 028 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=cpp) | [Solution]() | [Description]() |  |
+| 028 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=cpp) | [Solution](./solution/028_핸드폰_번호_가리기.cpp) | [Description]() | ✅ |
 | 029 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) | [Solution]() | [Description]() |  |
 | 030 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=cpp) | [Solution](./solution/030_x만큼_간격이_있는_n개의_숫자.cpp) | [Description]() | ✅ |
 
@@ -48,7 +48,7 @@
 | 034 | [1차: 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=cpp) | [Solution]() | [Description]() |  |
 | 035 | [1차: 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=cpp) | [Solution]() | [Description]() |  |
 | 036 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=cpp) | [Solution]() | [Description]() |  |
-| 037 | [K번쨰수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=cpp) | [Solution]() | [Description]() |  |
+| 037 | [K번쨰수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=cpp) | [Solution](./solution/037_K번째수.cpp) | [Description]() | ✅ |
 | 038 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp) | [Solution]() | [Description]() |  |
 | 039 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) | [Solution]() | [Description]() |  |
 | 040 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=cpp) | [Solution]() | [Description]() |  |
@@ -68,10 +68,10 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 051 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=cpp) | [Solution]() | [Description]() |  |
-| 052 | [업는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=cpp) | [Solution]() | [Description]() |  |
+| 051 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=cpp) | [Solution](./solution/051_부족한_금액_계산하기.cpp) | [Description]() | ✅ |
+| 052 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=cpp) | [Solution](./solution/052_없는_숫자_더하기.cpp) | [Description]() | ✅ |
 | 053 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) | [Solution]() | [Description]() |  |
-| 054 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=cpp) | [Solution]() | [Description]() |  |
+| 054 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=cpp) | [Solution](./solution/054_나머지가_1이_되는_수_찾기.cpp) | [Description]() | ✅ |
 | 055 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=cpp) | [Solution]() | [Description]() |  |
 | 056 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=cpp) | [Solution]() | [Description]() |  |
 | 057 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=cpp) | [Solution]() | [Description]() |  |
