@@ -29,10 +29,10 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 021 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=cpp) | [Solution]() | [Description]() |  |
+| 021 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=cpp) | [Solution](./solution/021_정수_제곱근_판별.cpp) | [Description]() | ✅ |
 | 022 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=cpp) | [Solution]() | [Description]() |  |
-| 023 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=cpp) | [Solution]() | [Description]() |  |
-| 024 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp) | [Solution](./solution/023_짝수와_홀수.cpp) | [Description]() | ✅ |
+| 023 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=cpp) | [Solution](./solution/023_짝수와_홀수.cpp) | [Description]() | ✅ |
+| 024 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp) | [Solution]() | [Description]() |  |
 | 025 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=cpp) | [Solution]() | [Description]() |  |
 | 026 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=cpp) | [Solution](./solution/026_평균구하기.cpp) | [Description]() | ✅ |
 | 027 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=cpp) | [Solution]() | [Description]() |  |

@@ -15,16 +15,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 011 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=cpp) | [Solution]() | [Description]() |  |
+| 011 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=cpp) | [Solution](./solution/011_나머지_구하기.cpp) | [Description]() | ✅ |
 | 012 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=cpp) | [Solution]() | [Description]() |  |
 | 013 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=cpp) | [Solution]() | [Description]() |  |
-| 014 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813?language=cpp) | [Solution]() | [Description]() |  |
+| 014 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813?language=cpp) | [Solution](./solution/014_짝수는_싫어요.cpp) | [Description]() | ✅ |
 | 015 | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=cpp) | [Solution]() | [Description]() |  |
 | 016 | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815?language=cpp) | [Solution]() | [Description]() |  |
 | 017 | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=cpp) | [Solution]() | [Description]() |  |
-| 018 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=cpp) | [Solution]() | [Description]() |  |
-| 019 | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818?language=cpp) | [Solution]() | [Description]() |  |
-| 020 | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819?language=cpp) | [Solution]() | [Description]() |  |
+| 018 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=cpp) | [Solution](./solution/018_배열의_평균값.cpp) | [Description]() | ✅ |
+| 019 | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818?language=cpp) | [Solution](./solution/019_옷가게_할인_받기.cpp) | [Description]() | ✅ |
+| 020 | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819?language=cpp) | [Solution](./solution/020_아이스_아메리카노.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
