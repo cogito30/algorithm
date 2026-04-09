@@ -301,13 +301,13 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 231 | []() | [Solution]() | [Description]() |  |
-| 232 | []() | [Solution]() | [Description]() |  |
-| 233 | []() | [Solution]() | [Description]() |  |
-| 234 | []() | [Solution]() | [Description]() |  |
-| 235 | []() | [Solution]() | [Description]() |  |
-| 236 | []() | [Solution]() | [Description]() |  |
-| 237 | []() | [Solution]() | [Description]() |  |
-| 238 | []() | [Solution]() | [Description]() |  |
-| 239 | []() | [Solution]() | [Description]() |  |
-| 240 | []() | [Solution]() | [Description]() |  |
+| 231 | [PCCE 기출문제 2번: 피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132?language=cpp) | [Solution](./solution/231_피타고라스의_정리.cpp) | [Description]() | ✅ |
+| 232 | [PCCE 기출문제 1번: 출력](https://school.programmers.co.kr/learn/courses/30/lessons/250133?language=cpp) | [Solution](./solution/232_출력.cpp) | [Description]() | ✅ |
+| 233 | [PCCE 기출문제 8번: 닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200?language=cpp) | [Solution](./solution/233_닉네임_규칙.cpp) | [Description]() | ✅ |
+| 234 | [PCCE 기출문제 7번: 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201?language=cpp) | [Solution](./solution/234_버스.cpp) | [Description]() | ✅ |
+| 235 | [PCCE 기출문제 6번: 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202?language=cpp) | [Solution](./solution/235_물_부족.cpp) | [Description]() | ✅ |
+| 236 | [PCCE 기출문제 5번: 심폐소생술](https://school.programmers.co.kr/learn/courses/30/lessons/340203?language=cpp) | [Solution](./solution/236_심폐소생술.cpp) | [Description]() | ✅ |
+| 237 | [PCCE 기출문제 4번: 병과분류](https://school.programmers.co.kr/learn/courses/30/lessons/340204?language=cpp) | [Solution](./solution/237_병과분류.cpp) | [Description]() | ✅ |
+| 238 | [PCCE 기출문제 3번: 수 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/340205?language=cpp) | [Solution](./solution/238_수_나누기.cpp) | [Description]() | ✅ |
+| 239 | [PCCE 기출문제 2번: 각도 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/340206?language=cpp) | [Solution](./solution/239_각도_합치기.cpp) | [Description]() | ✅ |
+| 240 | [PCCE 기출문제 1번: 문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207?language=cpp) | [Solution](./solution/240_문자_출력.cpp) | [Description]() | ✅ |

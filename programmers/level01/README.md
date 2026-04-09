@@ -37,7 +37,7 @@
 | 026 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=cpp) | [Solution](./solution/026_평균구하기.cpp) | [Description]() | ✅ |
 | 027 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=cpp) | [Solution]() | [Description]() |  |
 | 028 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=cpp) | [Solution](./solution/028_핸드폰_번호_가리기.cpp) | [Description]() | ✅ |
-| 029 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) | [Solution]() | [Description]() |  |
+| 029 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) | [Solution](./solution/029_행렬의_덧셈.cpp) | [Description]() | ✅ |
 | 030 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=cpp) | [Solution](./solution/030_x만큼_간격이_있는_n개의_숫자.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
