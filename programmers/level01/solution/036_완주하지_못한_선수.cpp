@@ -1,0 +1,27 @@
+/* 완주하지 못한 선수 */ 
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+string solution(vector<string> participant, vector<string> completion) {
+    string answer = "";
+    sort(participant.begin(), participant.end());
+    sort(completion.begin(), completion.end());
+    
+    if (participant.size() == 1) {
+        answer = participant[0];
+    }
+    
+    for (int i = 0; i < completion.size(); ++i) {
+        if (participant[i] != completion[i]) {
+            answer = participant[i];
+            break;
+        }
+        if (i == completion.size() - 1) {
+            answer = participant[i+1];
+        }
+    }
+    return answer;
+}

@@ -47,9 +47,9 @@
 | 033 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=cpp) | [Solution](./solution/033_예산.cpp) | [Description]() | ✅ |
 | 034 | [1차: 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=cpp) | [Solution]() | [Description]() |  |
 | 035 | [1차: 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=cpp) | [Solution]() | [Description]() |  |
-| 036 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=cpp) | [Solution]() | [Description]() |  |
+| 036 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=cpp) | [Solution](./solution/036_완주하지_못한_선수.cpp) | [Description]() | ✅ |
 | 037 | [K번쨰수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=cpp) | [Solution](./solution/037_K번째수.cpp) | [Description]() | ✅ |
-| 038 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp) | [Solution]() | [Description]() |  |
+| 038 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp) | [Solution](./solution/038_모의고사.cpp) | [Description]() | ✅ |
 | 039 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) | [Solution]() | [Description]() |  |
 | 040 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=cpp) | [Solution]() | [Description]() |  |
 
@@ -63,7 +63,7 @@
 | 046 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=cpp) | [Solution]() | [Description]() |  |
 | 047 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=cpp) | [Solution](./solution/047_음양_더하기.cpp) | [Description]() | ✅ |
 | 048 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) | [Solution]() | [Description]() |  |
-| 049 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=cpp) | [Solution]() | [Description]() |  |
+| 049 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=cpp) | [Solution](./solution/049_약수의_개수와_덧셈.cpp) | [Description]() | ✅ |
 | 050 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
