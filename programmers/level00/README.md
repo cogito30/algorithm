@@ -288,16 +288,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 221 | []() | [Solution]() | [Description]() |  |
-| 222 | []() | [Solution]() | [Description]() |  |
-| 223 | []() | [Solution]() | [Description]() |  |
-| 224 | []() | [Solution]() | [Description]() |  |
-| 225 | []() | [Solution]() | [Description]() |  |
-| 226 | []() | [Solution]() | [Description]() |  |
-| 227 | []() | [Solution]() | [Description]() |  |
-| 228 | []() | [Solution]() | [Description]() |  |
-| 229 | []() | [Solution]() | [Description]() |  |
-| 230 | []() | [Solution]() | [Description]() |  |
+| 221 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=cpp) | [Solution](./solution/221_대소문자_바꿔서_출력하기.cpp) | [Description]() | ✅ |
+| 222 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=cpp) | [Solution](./solution/222_문자열_반복해서_출력하기.cpp) | [Description]() | ✅ |
+| 223 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=cpp) | [Solution](./solution/223_a와_b_출력하기.cpp) | [Description]() | ✅ |
+| 224 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=cpp) | [Solution](./solution/224_문자열_출력하기.cpp) | [Description]() | ✅ |
+| 225 | [PCCE 기출문제 8번: 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126?language=cpp) | [Solution](./solution/225_창고_정리.cpp) | [Description]() | ✅ |
+| 226 | [PCCE 기출문제 7번: 가습기](https://school.programmers.co.kr/learn/courses/30/lessons/250127?language=cpp) | [Solution](./solution/226_가습기.cpp) | [Description]() | ✅ |
+| 227 | [PCCE 기출문제 6번: 가채점](https://school.programmers.co.kr/learn/courses/30/lessons/250128?language=cpp) | [Solution](./solution/227_가채점.cpp) | [Description]() | ✅ |
+| 228 | [PCCE 기출문제 5번: 산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129?language=cpp) | [Solution](./solution/228_산책.cpp) | [Description]() | ✅ |
+| 229 | [PCCE 기출문제 4번: 저축](https://school.programmers.co.kr/learn/courses/30/lessons/250130?language=cpp) | [Solution](./solution/229_저축.cpp) | [Description]() | ✅ |
+| 230 | [PCCE 기출문제 3번: 나이 계산](https://school.programmers.co.kr/learn/courses/30/lessons/250131?language=cpp) | [Solution](./solution/230_나이_계산.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
