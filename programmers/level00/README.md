@@ -262,29 +262,29 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 201 | []() | [Solution]() | [Description]() |  |
-| 202 | []() | [Solution]() | [Description]() |  |
-| 203 | []() | [Solution]() | [Description]() |  |
-| 204 | []() | [Solution]() | [Description]() |  |
-| 205 | []() | [Solution]() | [Description]() |  |
-| 206 | []() | [Solution]() | [Description]() |  |
-| 207 | []() | [Solution]() | [Description]() |  |
-| 208 | []() | [Solution]() | [Description]() |  |
-| 209 | []() | [Solution]() | [Description]() |  |
-| 210 | []() | [Solution]() | [Description]() |  |
+| 201 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929?language=cpp) | [Solution](./solution/201_원소들의_곱과_합.cpp) | [Description]() | ✅ |
+| 202 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=cpp) | [Solution](./solution/202_주사위_게임_2.cpp) | [Description]() | ✅ |
+| 203 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931?language=cpp) | [Solution]() | [Description]() |  |
+| 204 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932?language=cpp) | [Solution](./solution/204_코드_처리하기.cpp) | [Description]() | ✅ |
+| 205 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933?language=cpp) | [Solution](./solution/205_flat에_따라_다른_값_반환하기.cpp) | [Description]() | ✅ |
+| 206 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=cpp) | [Solution](./solution/206_조건_문자열.cpp) | [Description]() | ✅ |
+| 207 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=cpp) | [Solution](./solution/207_홀짝에_따라_다른_값_반환하기.cpp) | [Description]() | ✅ |
+| 208 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=cpp) | [Solution](./solution/208_공배수.cpp) | [Description]() | ✅ |
+| 209 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937?language=cpp) | [Solution](./solution/209_n의_배수.cpp) | [Description]() | ✅ |
+| 210 | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938?language=cpp) | [Solution](./solution/210_두_수의_연산값_비교하기.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 211 | []() | [Solution]() | [Description]() |  |
-| 212 | []() | [Solution]() | [Description]() |  |
-| 213 | []() | [Solution]() | [Description]() |  |
-| 214 | []() | [Solution]() | [Description]() |  |
-| 215 | []() | [Solution]() | [Description]() |  |
-| 216 | []() | [Solution]() | [Description]() |  |
-| 217 | []() | [Solution]() | [Description]() |  |
-| 218 | []() | [Solution]() | [Description]() |  |
-| 219 | []() | [Solution]() | [Description]() |  |
-| 220 | []() | [Solution]() | [Description]() |  |
+| 211 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=cpp) | [Solution](./solution/211_더_크게_합치기.cpp) | [Description]() | ✅ |
+| 212 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940?language=cpp) | [Solution](./solution/212_문자열_곱하기.cpp) | [Description]() | ✅ |
+| 213 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941?language=cpp) | [Solution](./solution/213_문자_리스트를_문자열로_변환하기.cpp) | [Description]() | ✅ |
+| 214 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942?language=cpp) | [Solution](./solution/214_문자열_섞기.cpp) | [Description]() | ✅ |
+| 215 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943?language=cpp) | [Solution](./solution/215_문자열_겹쳐쓰기.cpp) | [Description]() | ✅ |
+| 216 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944?language=cpp) | [Solution](./solution/216_홀짝_구분하기.cpp) | [Description]() | ✅ |
+| 217 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945?language=cpp) | [Solution](./solution/217_문자열_돌리기.cpp) | [Description]() | ✅ |
+| 218 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946?language=cpp) | [Solution](./solution/218_문자열_붙여서_출력하기.cpp) | [Description]() | ✅ |
+| 219 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947?language=cpp) | [Solution](./solution/219_덧셈식_출력하기.cpp) | [Description]() | ✅ |
+| 220 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948?language=cpp) | [Solution](./solution/220_특수문자_출력하기.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
