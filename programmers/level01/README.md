@@ -99,7 +99,7 @@
 | 073 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=cpp) | [Solution]() | [Description]() |  |
 | 074 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=cpp) | [Solution]() | [Description]() |  |
 | 075 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=cpp) | [Solution]() | [Description]() |  |
-| 076 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=cpp) | [Solution]() | [Description]() |  |
+| 076 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=cpp) | [Solution](./solution/076_추억_점수.cpp) | [Description]() | ✅ |
 | 077 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871?language=cpp) | [Solution]() | [Description]() |  |
 | 078 | [PCCE 기출문제 10번: 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121?language=cpp) | [Solution]() | [Description]() |  |
 | 079 | [PCCE 기출문제 9번: 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125?language=cpp) | [Solution]() | [Description]() |  |
