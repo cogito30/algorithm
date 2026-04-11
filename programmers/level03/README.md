@@ -2,50 +2,50 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 001 | []() | [Solution]() | [Description]() |  |
-| 002 | []() | [Solution]() | [Description]() |  |
-| 003 | []() | [Solution]() | [Description]() |  |
-| 004 | []() | [Solution]() | [Description]() |  |
-| 005 | []() | [Solution]() | [Description]() |  |
-| 006 | []() | [Solution]() | [Description]() |  |
-| 007 | []() | [Solution]() | [Description]() |  |
-| 008 | []() | [Solution]() | [Description]() |  |
-| 009 | []() | [Solution]() | [Description]() |  |
-| 010 | []() | [Solution]() | [Description]() |  |
+| 001 | [브라이언의 고민](https://school.programmers.co.kr/learn/courses/30/lessons/1830?language=cpp) | [Solution]() | [Description]() |  |
+| 002 | [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832?language=cpp) | [Solution]() | [Description]() |  |
+| 003 | [캠핑](https://school.programmers.co.kr/learn/courses/30/lessons/1833?language=cpp) | [Solution]() | [Description]() |  |
+| 004 | [리틀 프랜즈 사천성](https://school.programmers.co.kr/learn/courses/30/lessons/1836?language=cpp) | [Solution]() | [Description]() |  |
+| 005 | [GPS](https://school.programmers.co.kr/learn/courses/30/lessons/1837?language=cpp) | [Solution]() | [Description]() |  |
+| 006 | [몸짱 트레이너 라이언의 고민](https://school.programmers.co.kr/learn/courses/30/lessons/1838?language=cpp) | [Solution]() | [Description]() |  |
+| 007 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904?language=cpp) | [Solution]() | [Description]() |  |
+| 008 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907?language=cpp) | [Solution]() | [Description]() |  |
+| 009 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920?language=cpp) | [Solution]() | [Description]() |  |
+| 010 | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 011 | []() | [Solution]() | [Description]() |  |
-| 012 | []() | [Solution]() | [Description]() |  |
-| 013 | []() | [Solution]() | [Description]() |  |
-| 014 | []() | [Solution]() | [Description]() |  |
-| 015 | []() | [Solution]() | [Description]() |  |
-| 016 | []() | [Solution]() | [Description]() |  |
-| 017 | []() | [Solution]() | [Description]() |  |
-| 018 | []() | [Solution]() | [Description]() |  |
-| 019 | []() | [Solution]() | [Description]() |  |
-| 020 | []() | [Solution]() | [Description]() |  |
+| 011 | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938?language=cpp) | [Solution]() | [Description]() |  |
+| 012 | [최적의 행렬 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12942?language=cpp) | [Solution]() | [Description]() |  |
+| 013 | [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971?language=cpp) | [Solution]() | [Description]() |  |
+| 014 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979?language=cpp) | [Solution]() | [Description]() |  |
+| 015 | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=cpp) | [Solution]() | [Description]() |  |
+| 016 | [1차: 추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676?language=cpp) | [Solution]() | [Description]() |  |
+| 017 | [1차: 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678?language=cpp) | [Solution]() | [Description]() |  |
+| 018 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=cpp) | [Solution]() | [Description]() |  |
+| 019 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=cpp) | [Solution]() | [Description]() |  |
+| 020 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 021 | []() | [Solution]() | [Description]() |  |
-| 022 | []() | [Solution]() | [Description]() |  |
-| 023 | []() | [Solution]() | [Description]() |  |
-| 024 | []() | [Solution]() | [Description]() |  |
-| 025 | []() | [Solution]() | [Description]() |  |
-| 026 | []() | [Solution]() | [Description]() |  |
-| 027 | []() | [Solution]() | [Description]() |  |
-| 028 | []() | [Solution]() | [Description]() |  |
-| 029 | []() | [Solution]() | [Description]() |  |
-| 030 | []() | [Solution]() | [Description]() |  |
+| 021 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861?language=cpp) | [Solution]() | [Description]() |  |
+| 022 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884?language=cpp) | [Solution]() | [Description]() |  |
+| 023 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892?language=cpp) | [Solution]() | [Description]() |  |
+| 024 | [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893?language=cpp) | [Solution]() | [Description]() |  |
+| 025 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) | [Solution]() | [Description]() |  |
+| 026 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898?language=cpp) | [Solution]() | [Description]() |  |
+| 027 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp) | [Solution]() | [Description]() |  |
+| 028 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=cpp) | [Solution]() | [Description]() |  |
+| 029 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=cpp) | [Solution]() | [Description]() |  |
+| 030 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 031 | []() | [Solution]() | [Description]() |  |
-| 032 | []() | [Solution]() | [Description]() |  |
-| 033 | []() | [Solution]() | [Description]() |  |
-| 034 | []() | [Solution]() | [Description]() |  |
-| 035 | []() | [Solution]() | [Description]() |  |
+| 031 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238?language=cpp) | [Solution]() | [Description]() |  |
+| 032 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=cpp) | [Solution]() | [Description]() |  |
+| 033 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=cpp) | [Solution]() | [Description]() |  |
+| 034 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=cpp) | [Solution]() | [Description]() |  |
+| 035 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061?language=cpp) | [Solution]() | [Description]() |  |
 | 036 | []() | [Solution]() | [Description]() |  |
 | 037 | []() | [Solution]() | [Description]() |  |
 | 038 | []() | [Solution]() | [Description]() |  |
@@ -114,200 +114,3 @@
 | 086 | []() | [Solution]() | [Description]() |  |
 | 087 | []() | [Solution]() | [Description]() |  |
 | 088 | []() | [Solution]() | [Description]() |  |
-| 089 | []() | [Solution]() | [Description]() |  |
-| 090 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 091 | []() | [Solution]() | [Description]() |  |
-| 092 | []() | [Solution]() | [Description]() |  |
-| 093 | []() | [Solution]() | [Description]() |  |
-| 094 | []() | [Solution]() | [Description]() |  |
-| 095 | []() | [Solution]() | [Description]() |  |
-| 096 | []() | [Solution]() | [Description]() |  |
-| 097 | []() | [Solution]() | [Description]() |  |
-| 098 | []() | [Solution]() | [Description]() |  |
-| 099 | []() | [Solution]() | [Description]() |  |
-| 100 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 101 | []() | [Solution]() | [Description]() |  |
-| 102 | []() | [Solution]() | [Description]() |  |
-| 103 | []() | [Solution]() | [Description]() |  |
-| 104 | []() | [Solution]() | [Description]() |  |
-| 105 | []() | [Solution]() | [Description]() |  |
-| 106 | []() | [Solution]() | [Description]() |  |
-| 107 | []() | [Solution]() | [Description]() |  |
-| 108 | []() | [Solution]() | [Description]() |  |
-| 109 | []() | [Solution]() | [Description]() |  |
-| 110 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 111 | []() | [Solution]() | [Description]() |  |
-| 112 | []() | [Solution]() | [Description]() |  |
-| 113 | []() | [Solution]() | [Description]() |  |
-| 114 | []() | [Solution]() | [Description]() |  |
-| 115 | []() | [Solution]() | [Description]() |  |
-| 116 | []() | [Solution]() | [Description]() |  |
-| 117 | []() | [Solution]() | [Description]() |  |
-| 118 | []() | [Solution]() | [Description]() |  |
-| 119 | []() | [Solution]() | [Description]() |  |
-| 120 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 121 | []() | [Solution]() | [Description]() |  |
-| 122 | []() | [Solution]() | [Description]() |  |
-| 123 | []() | [Solution]() | [Description]() |  |
-| 124 | []() | [Solution]() | [Description]() |  |
-| 125 | []() | [Solution]() | [Description]() |  |
-| 126 | []() | [Solution]() | [Description]() |  |
-| 127 | []() | [Solution]() | [Description]() |  |
-| 128 | []() | [Solution]() | [Description]() |  |
-| 129 | []() | [Solution]() | [Description]() |  |
-| 130 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 131 | []() | [Solution]() | [Description]() |  |
-| 132 | []() | [Solution]() | [Description]() |  |
-| 133 | []() | [Solution]() | [Description]() |  |
-| 134 | []() | [Solution]() | [Description]() |  |
-| 135 | []() | [Solution]() | [Description]() |  |
-| 136 | []() | [Solution]() | [Description]() |  |
-| 137 | []() | [Solution]() | [Description]() |  |
-| 138 | []() | [Solution]() | [Description]() |  |
-| 139 | []() | [Solution]() | [Description]() |  |
-| 140 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 141 | []() | [Solution]() | [Description]() |  |
-| 142 | []() | [Solution]() | [Description]() |  |
-| 143 | []() | [Solution]() | [Description]() |  |
-| 144 | []() | [Solution]() | [Description]() |  |
-| 145 | []() | [Solution]() | [Description]() |  |
-| 146 | []() | [Solution]() | [Description]() |  |
-| 147 | []() | [Solution]() | [Description]() |  |
-| 148 | []() | [Solution]() | [Description]() |  |
-| 149 | []() | [Solution]() | [Description]() |  |
-| 150 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 151 | []() | [Solution]() | [Description]() |  |
-| 152 | []() | [Solution]() | [Description]() |  |
-| 153 | []() | [Solution]() | [Description]() |  |
-| 154 | []() | [Solution]() | [Description]() |  |
-| 155 | []() | [Solution]() | [Description]() |  |
-| 156 | []() | [Solution]() | [Description]() |  |
-| 157 | []() | [Solution]() | [Description]() |  |
-| 158 | []() | [Solution]() | [Description]() |  |
-| 159 | []() | [Solution]() | [Description]() |  |
-| 160 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 161 | []() | [Solution]() | [Description]() |  |
-| 162 | []() | [Solution]() | [Description]() |  |
-| 163 | []() | [Solution]() | [Description]() |  |
-| 164 | []() | [Solution]() | [Description]() |  |
-| 165 | []() | [Solution]() | [Description]() |  |
-| 166 | []() | [Solution]() | [Description]() |  |
-| 167 | []() | [Solution]() | [Description]() |  |
-| 168 | []() | [Solution]() | [Description]() |  |
-| 169 | []() | [Solution]() | [Description]() |  |
-| 170 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 171 | []() | [Solution]() | [Description]() |  |
-| 172 | []() | [Solution]() | [Description]() |  |
-| 173 | []() | [Solution]() | [Description]() |  |
-| 174 | []() | [Solution]() | [Description]() |  |
-| 175 | []() | [Solution]() | [Description]() |  |
-| 176 | []() | [Solution]() | [Description]() |  |
-| 177 | []() | [Solution]() | [Description]() |  |
-| 178 | []() | [Solution]() | [Description]() |  |
-| 179 | []() | [Solution]() | [Description]() |  |
-| 180 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 181 | []() | [Solution]() | [Description]() |  |
-| 182 | []() | [Solution]() | [Description]() |  |
-| 183 | []() | [Solution]() | [Description]() |  |
-| 184 | []() | [Solution]() | [Description]() |  |
-| 185 | []() | [Solution]() | [Description]() |  |
-| 186 | []() | [Solution]() | [Description]() |  |
-| 187 | []() | [Solution]() | [Description]() |  |
-| 188 | []() | [Solution]() | [Description]() |  |
-| 189 | []() | [Solution]() | [Description]() |  |
-| 190 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 191 | []() | [Solution]() | [Description]() |  |
-| 192 | []() | [Solution]() | [Description]() |  |
-| 193 | []() | [Solution]() | [Description]() |  |
-| 194 | []() | [Solution]() | [Description]() |  |
-| 195 | []() | [Solution]() | [Description]() |  |
-| 196 | []() | [Solution]() | [Description]() |  |
-| 197 | []() | [Solution]() | [Description]() |  |
-| 198 | []() | [Solution]() | [Description]() |  |
-| 199 | []() | [Solution]() | [Description]() |  |
-| 200 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 201 | []() | [Solution]() | [Description]() |  |
-| 202 | []() | [Solution]() | [Description]() |  |
-| 203 | []() | [Solution]() | [Description]() |  |
-| 204 | []() | [Solution]() | [Description]() |  |
-| 205 | []() | [Solution]() | [Description]() |  |
-| 206 | []() | [Solution]() | [Description]() |  |
-| 207 | []() | [Solution]() | [Description]() |  |
-| 208 | []() | [Solution]() | [Description]() |  |
-| 209 | []() | [Solution]() | [Description]() |  |
-| 210 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 211 | []() | [Solution]() | [Description]() |  |
-| 212 | []() | [Solution]() | [Description]() |  |
-| 213 | []() | [Solution]() | [Description]() |  |
-| 214 | []() | [Solution]() | [Description]() |  |
-| 215 | []() | [Solution]() | [Description]() |  |
-| 216 | []() | [Solution]() | [Description]() |  |
-| 217 | []() | [Solution]() | [Description]() |  |
-| 218 | []() | [Solution]() | [Description]() |  |
-| 219 | []() | [Solution]() | [Description]() |  |
-| 220 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 221 | []() | [Solution]() | [Description]() |  |
-| 222 | []() | [Solution]() | [Description]() |  |
-| 223 | []() | [Solution]() | [Description]() |  |
-| 224 | []() | [Solution]() | [Description]() |  |
-| 225 | []() | [Solution]() | [Description]() |  |
-| 226 | []() | [Solution]() | [Description]() |  |
-| 227 | []() | [Solution]() | [Description]() |  |
-| 228 | []() | [Solution]() | [Description]() |  |
-| 229 | []() | [Solution]() | [Description]() |  |
-| 230 | []() | [Solution]() | [Description]() |  |
-
-| No | Question | Solution | Description | Done | 
-| :--: | :--: | :--: | :--: | :--: |
-| 231 | []() | [Solution]() | [Description]() |  |
-| 232 | []() | [Solution]() | [Description]() |  |
-| 233 | []() | [Solution]() | [Description]() |  |
-| 234 | []() | [Solution]() | [Description]() |  |
-| 235 | []() | [Solution]() | [Description]() |  |
-| 236 | []() | [Solution]() | [Description]() |  |
-| 237 | []() | [Solution]() | [Description]() |  |
-| 238 | []() | [Solution]() | [Description]() |  |
-| 239 | []() | [Solution]() | [Description]() |  |
-| 240 | []() | [Solution]() | [Description]() |  |
