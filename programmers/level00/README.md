@@ -28,55 +28,55 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 021 | []() | [Solution]() | [Description]() |  |
-| 022 | []() | [Solution]() | [Description]() |  |
-| 023 | []() | [Solution]() | [Description]() |  |
-| 024 | []() | [Solution]() | [Description]() |  |
-| 025 | []() | [Solution]() | [Description]() |  |
-| 026 | []() | [Solution]() | [Description]() |  |
-| 027 | []() | [Solution]() | [Description]() |  |
-| 028 | []() | [Solution]() | [Description]() |  |
-| 029 | []() | [Solution]() | [Description]() |  |
-| 030 | []() | [Solution]() | [Description]() |  |
+| 021 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=cpp) | [Solution]() | [Description]() |  |
+| 022 | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821?language=cpp) | [Solution]() | [Description]() |  |
+| 023 | [뒤집힌 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120822?language=cpp) | [Solution]() | [Description]() |  |
+| 024 | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823?language=cpp) | [Solution]() | [Description]() |  |
+| 025 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824?language=cpp) | [Solution]() | [Description]() |  |
+| 026 | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825?language=cpp) | [Solution]() | [Description]() |  |
+| 027 | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=cpp) | [Solution]() | [Description]() |  |
+| 028 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=cpp) | [Solution]() | [Description]() |  |
+| 029 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=cpp) | [Solution]() | [Description]() |  |
+| 030 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 031 | []() | [Solution]() | [Description]() |  |
-| 032 | []() | [Solution]() | [Description]() |  |
-| 033 | []() | [Solution]() | [Description]() |  |
-| 034 | []() | [Solution]() | [Description]() |  |
-| 035 | []() | [Solution]() | [Description]() |  |
-| 036 | []() | [Solution]() | [Description]() |  |
-| 037 | []() | [Solution]() | [Description]() |  |
-| 038 | []() | [Solution]() | [Description]() |  |
-| 039 | []() | [Solution]() | [Description]() |  |
-| 040 | []() | [Solution]() | [Description]() |  |
+| 031 | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=cpp) | [Solution]() | [Description]() |  |
+| 032 | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834?language=cpp) | [Solution]() | [Description]() |  |
+| 033 | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835?language=cpp) | [Solution]() | [Description]() |  |
+| 034 | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836?language=cpp) | [Solution]() | [Description]() |  |
+| 035 | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837?language=cpp) | [Solution]() | [Description]() |  |
+| 036 | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838?language=cpp) | [Solution]() | [Description]() |  |
+| 037 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839?language=cpp) | [Solution]() | [Description]() |  |
+| 038 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840?language=cpp) | [Solution]() | [Description]() |  |
+| 039 | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841?language=cpp) | [Solution]() | [Description]() |  |
+| 040 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 041 | []() | [Solution]() | [Description]() |  |
-| 042 | []() | [Solution]() | [Description]() |  |
-| 043 | []() | [Solution]() | [Description]() |  |
-| 044 | []() | [Solution]() | [Description]() |  |
-| 045 | []() | [Solution]() | [Description]() |  |
-| 046 | []() | [Solution]() | [Description]() |  |
-| 047 | []() | [Solution]() | [Description]() |  |
-| 048 | []() | [Solution]() | [Description]() |  |
-| 049 | []() | [Solution]() | [Description]() |  |
-| 050 | []() | [Solution]() | [Description]() |  |
+| 041 | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843?language=cpp) | [Solution]() | [Description]() |  |
+| 042 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844?language=cpp) | [Solution]() | [Description]() |  |
+| 043 | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845?language=cpp) | [Solution]() | [Description]() |  |
+| 044 | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846?language=cpp) | [Solution]() | [Description]() |  |
+| 045 | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=cpp) | [Solution]() | [Description]() |  |
+| 046 | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=cpp) | [Solution]() | [Description]() |  |
+| 047 | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=cpp) | [Solution]() | [Description]() |  |
+| 048 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850?language=cpp) | [Solution]() | [Description]() |  |
+| 049 | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=cpp) | [Solution]() | [Description]() |  |
+| 050 | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 051 | []() | [Solution]() | [Description]() |  |
-| 052 | []() | [Solution]() | [Description]() |  |
-| 053 | []() | [Solution]() | [Description]() |  |
-| 054 | []() | [Solution]() | [Description]() |  |
-| 055 | []() | [Solution]() | [Description]() |  |
-| 056 | []() | [Solution]() | [Description]() |  |
-| 057 | []() | [Solution]() | [Description]() |  |
-| 058 | []() | [Solution]() | [Description]() |  |
-| 059 | []() | [Solution]() | [Description]() |  |
-| 060 | []() | [Solution]() | [Description]() |  |
+| 051 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853?language=cpp) | [Solution]() | [Description]() |  |
+| 052 | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=cpp) | [Solution]() | [Description]() |  |
+| 053 | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860?language=cpp) | [Solution]() | [Description]() |  |
+| 054 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=cpp) | [Solution]() | [Description]() |  |
+| 055 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=cpp) | [Solution]() | [Description]() |  |
+| 056 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863?language=cpp) | [Solution]() | [Description]() |  |
+| 057 | [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864?language=cpp) | [Solution]() | [Description]() |  |
+| 058 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866?language=cpp) | [Solution]() | [Description]() |  |
+| 059 | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868?language=cpp) | [Solution]() | [Description]() |  |
+| 060 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
@@ -158,107 +158,107 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 121 | []() | [Solution]() | [Description]() |  |
-| 122 | []() | [Solution]() | [Description]() |  |
-| 123 | []() | [Solution]() | [Description]() |  |
-| 124 | []() | [Solution]() | [Description]() |  |
-| 125 | []() | [Solution]() | [Description]() |  |
-| 126 | []() | [Solution]() | [Description]() |  |
-| 127 | []() | [Solution]() | [Description]() |  |
-| 128 | []() | [Solution]() | [Description]() |  |
-| 129 | []() | [Solution]() | [Description]() |  |
-| 130 | []() | [Solution]() | [Description]() |  |
+| 121 | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849?language=cpp) | [Solution]() | [Description]() |  |
+| 122 | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850?language=cpp) | [Solution]() | [Description]() |  |
+| 123 | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851?language=cpp) | [Solution]() | [Description]() |  |
+| 124 | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852?language=cpp) | [Solution]() | [Description]() |  |
+| 125 | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853?language=cpp) | [Solution]() | [Description]() |  |
+| 126 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854?language=cpp) | [Solution]() | [Description]() |  |
+| 127 | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855?language=cpp) | [Solution]() | [Description]() |  |
+| 128 | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856?language=cpp) | [Solution]() | [Description]() |  |
+| 129 | [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857?language=cpp) | [Solution]() | [Description]() |  |
+| 130 | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 131 | []() | [Solution]() | [Description]() |  |
-| 132 | []() | [Solution]() | [Description]() |  |
-| 133 | []() | [Solution]() | [Description]() |  |
-| 134 | []() | [Solution]() | [Description]() |  |
-| 135 | []() | [Solution]() | [Description]() |  |
-| 136 | []() | [Solution]() | [Description]() |  |
-| 137 | []() | [Solution]() | [Description]() |  |
-| 138 | []() | [Solution]() | [Description]() |  |
-| 139 | []() | [Solution]() | [Description]() |  |
-| 140 | []() | [Solution]() | [Description]() |  |
+| 131 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859?language=cpp) | [Solution]() | [Description]() |  |
+| 132 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=cpp) | [Solution]() | [Description]() |  |
+| 133 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=cpp) | [Solution]() | [Description]() |  |
+| 134 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862?language=cpp) | [Solution]() | [Description]() |  |
+| 135 | [my_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=cpp) | [Solution]() | [Description]() |  |
+| 136 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=cpp) | [Solution]() | [Description]() |  |
+| 137 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865?language=cpp) | [Solution]() | [Description]() |  |
+| 138 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866?language=cpp) | [Solution]() | [Description]() |  |
+| 139 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867?language=cpp) | [Solution]() | [Description]() |  |
+| 140 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 141 | []() | [Solution]() | [Description]() |  |
-| 142 | []() | [Solution]() | [Description]() |  |
-| 143 | []() | [Solution]() | [Description]() |  |
-| 144 | []() | [Solution]() | [Description]() |  |
-| 145 | []() | [Solution]() | [Description]() |  |
-| 146 | []() | [Solution]() | [Description]() |  |
-| 147 | []() | [Solution]() | [Description]() |  |
-| 148 | []() | [Solution]() | [Description]() |  |
-| 149 | []() | [Solution]() | [Description]() |  |
-| 150 | []() | [Solution]() | [Description]() |  |
+| 141 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=cpp) | [Solution]() | [Description]() |  |
+| 142 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=cpp) | [Solution]() | [Description]() |  |
+| 143 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871?language=cpp) | [Solution]() | [Description]() |  |
+| 144 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872?language=cpp) | [Solution]() | [Description]() |  |
+| 145 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=cpp) | [Solution]() | [Description]() |  |
+| 146 | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874?language=cpp) | [Solution]() | [Description]() |  |
+| 147 | [배열에서 문자열 대소문자로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875?language=cpp) | [Solution]() | [Description]() |  |
+| 148 | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876?language=cpp) | [Solution]() | [Description]() |  |
+| 149 | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=cpp) | [Solution]() | [Description]() |  |
+| 150 | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 151 | []() | [Solution]() | [Description]() |  |
-| 152 | []() | [Solution]() | [Description]() |  |
-| 153 | []() | [Solution]() | [Description]() |  |
-| 154 | []() | [Solution]() | [Description]() |  |
-| 155 | []() | [Solution]() | [Description]() |  |
-| 156 | []() | [Solution]() | [Description]() |  |
-| 157 | []() | [Solution]() | [Description]() |  |
-| 158 | []() | [Solution]() | [Description]() |  |
-| 159 | []() | [Solution]() | [Description]() |  |
-| 160 | []() | [Solution]() | [Description]() |  |
+| 151 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=cpp) | [Solution]() | [Description]() |  |
+| 152 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880?language=cpp) | [Solution]() | [Description]() |  |
+| 153 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881?language=cpp) | [Solution]() | [Description]() |  |
+| 154 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=cpp) | [Solution]() | [Description]() |  |
+| 155 | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883?language=cpp) | [Solution]() | [Description]() |  |
+| 156 | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884?language=cpp) | [Solution]() | [Description]() |  |
+| 157 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885?language=cpp) | [Solution]() | [Description]() |  |
+| 158 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=cpp) | [Solution]() | [Description]() |  |
+| 159 | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=cpp) | [Solution]() | [Description]() |  |
+| 160 | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 161 | []() | [Solution]() | [Description]() |  |
-| 162 | []() | [Solution]() | [Description]() |  |
-| 163 | []() | [Solution]() | [Description]() |  |
-| 164 | []() | [Solution]() | [Description]() |  |
-| 165 | []() | [Solution]() | [Description]() |  |
-| 166 | []() | [Solution]() | [Description]() |  |
-| 167 | []() | [Solution]() | [Description]() |  |
-| 168 | []() | [Solution]() | [Description]() |  |
-| 169 | []() | [Solution]() | [Description]() |  |
-| 170 | []() | [Solution]() | [Description]() |  |
+| 161 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889?language=cpp) | [Solution]() | [Description]() |  |
+| 162 | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=cpp) | [Solution]() | [Description]() |  |
+| 163 | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891?language=cpp) | [Solution]() | [Description]() |  |
+| 164 | [n번쨰 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=cpp) | [Solution]() | [Description]() |  |
+| 165 | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893?language=cpp) | [Solution]() | [Description]() |  |
+| 166 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894?language=cpp) | [Solution]() | [Description]() |  |
+| 167 | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895?language=cpp) | [Solution]() | [Description]() |  |
+| 168 | [첫 번쨰로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896?language=cpp) | [Solution]() | [Description]() |  |
+| 169 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897?language=cpp) | [Solution]() | [Description]() |  |
+| 170 | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 171 | []() | [Solution]() | [Description]() |  |
-| 172 | []() | [Solution]() | [Description]() |  |
-| 173 | []() | [Solution]() | [Description]() |  |
-| 174 | []() | [Solution]() | [Description]() |  |
-| 175 | []() | [Solution]() | [Description]() |  |
-| 176 | []() | [Solution]() | [Description]() |  |
-| 177 | []() | [Solution]() | [Description]() |  |
-| 178 | []() | [Solution]() | [Description]() |  |
-| 179 | []() | [Solution]() | [Description]() |  |
-| 180 | []() | [Solution]() | [Description]() |  |
+| 171 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899?language=cpp) | [Solution]() | [Description]() |  |
+| 172 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=cpp) | [Solution]() | [Description]() |  |
+| 173 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901?language=cpp) | [Solution]() | [Description]() |  |
+| 174 | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902?language=cpp) | [Solution]() | [Description]() |  |
+| 175 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903?language=cpp) | [Solution]() | [Description]() |  |
+| 176 | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904?language=cpp) | [Solution]() | [Description]() |  |
+| 177 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905?language=cpp) | [Solution]() | [Description]() |  |
+| 178 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906?language=cpp) | [Solution]() | [Description]() |  |
+| 179 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=cpp) | [Solution]() | [Description]() |  |
+| 180 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 181 | []() | [Solution]() | [Description]() |  |
-| 182 | []() | [Solution]() | [Description]() |  |
-| 183 | []() | [Solution]() | [Description]() |  |
-| 184 | []() | [Solution]() | [Description]() |  |
-| 185 | []() | [Solution]() | [Description]() |  |
-| 186 | []() | [Solution]() | [Description]() |  |
-| 187 | []() | [Solution]() | [Description]() |  |
-| 188 | []() | [Solution]() | [Description]() |  |
-| 189 | []() | [Solution]() | [Description]() |  |
-| 190 | []() | [Solution]() | [Description]() |  |
+| 181 | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=cpp) | [Solution]() | [Description]() |  |
+| 182 | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910?language=cpp) | [Solution]() | [Description]() |  |
+| 183 | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911?language=cpp) | [Solution]() | [Description]() |  |
+| 184 | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912?language=cpp) | [Solution]() | [Description]() |  |
+| 185 | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913?language=cpp) | [Solution]() | [Description]() |  |
+| 186 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914?language=cpp) | [Solution]() | [Description]() |  |
+| 187 | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915?language=cpp) | [Solution]() | [Description]() |  |
+| 188 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916?language=cpp) | [Solution]() | [Description]() |  |
+| 189 | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917?language=cpp) | [Solution]() | [Description]() |  |
+| 190 | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 191 | []() | [Solution]() | [Description]() |  |
-| 192 | []() | [Solution]() | [Description]() |  |
-| 193 | []() | [Solution]() | [Description]() |  |
-| 194 | []() | [Solution]() | [Description]() |  |
-| 195 | []() | [Solution]() | [Description]() |  |
-| 196 | []() | [Solution]() | [Description]() |  |
-| 197 | []() | [Solution]() | [Description]() |  |
-| 198 | []() | [Solution]() | [Description]() |  |
-| 199 | []() | [Solution]() | [Description]() |  |
-| 200 | []() | [Solution]() | [Description]() |  |
+| 191 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=cpp) | [Solution]() | [Description]() |  |
+| 192 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=cpp) | [Solution]() | [Description]() |  |
+| 193 | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921?language=cpp) | [Solution]() | [Description]() |  |
+| 194 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=cpp) | [Solution]() | [Description]() |  |
+| 195 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923?language=cpp) | [Solution]() | [Description]() |  |
+| 196 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924?language=cpp) | [Solution]() | [Description]() |  |
+| 197 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=cpp) | [Solution]() | [Description]() |  |
+| 198 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926?language=cpp) | [Solution]() | [Description]() |  |
+| 199 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=cpp) | [Solution]() | [Description]() |  |
+| 200 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
