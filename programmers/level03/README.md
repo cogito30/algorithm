@@ -46,71 +46,71 @@
 | 033 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=cpp) | [Solution]() | [Description]() |  |
 | 034 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=cpp) | [Solution]() | [Description]() |  |
 | 035 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061?language=cpp) | [Solution]() | [Description]() |  |
-| 036 | []() | [Solution]() | [Description]() |  |
-| 037 | []() | [Solution]() | [Description]() |  |
-| 038 | []() | [Solution]() | [Description]() |  |
-| 039 | []() | [Solution]() | [Description]() |  |
-| 040 | []() | [Solution]() | [Description]() |  |
+| 036 | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=cpp) | [Solution]() | [Description]() |  |
+| 037 | [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063?language=cpp) | [Solution]() | [Description]() |  |
+| 038 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062?language=cpp) | [Solution]() | [Description]() |  |
+| 039 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064?language=cpp) | [Solution]() | [Description]() |  |
+| 040 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 041 | []() | [Solution]() | [Description]() |  |
-| 042 | []() | [Solution]() | [Description]() |  |
-| 043 | []() | [Solution]() | [Description]() |  |
-| 044 | []() | [Solution]() | [Description]() |  |
-| 045 | []() | [Solution]() | [Description]() |  |
-| 046 | []() | [Solution]() | [Description]() |  |
-| 047 | []() | [Solution]() | [Description]() |  |
-| 048 | []() | [Solution]() | [Description]() |  |
-| 049 | []() | [Solution]() | [Description]() |  |
-| 050 | []() | [Solution]() | [Description]() |  |
+| 041 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259?language=cpp) | [Solution]() | [Description]() |  |
+| 042 | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646?language=cpp) | [Solution]() | [Description]() |  |
+| 043 | [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130?language=cpp) | [Solution]() | [Description]() |  |
+| 044 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp) | [Solution]() | [Description]() |  |
+| 045 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414?language=cpp) | [Solution]() | [Description]() |  |
+| 046 | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=cpp) | [Solution]() | [Description]() |  |
+| 047 | [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=cpp) | [Solution]() | [Description]() |  |
+| 048 | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486?language=cpp) | [Solution]() | [Description]() |  |
+| 049 | [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=cpp) | [Solution]() | [Description]() |  |
+| 050 | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 051 | []() | [Solution]() | [Description]() |  |
-| 052 | []() | [Solution]() | [Description]() |  |
-| 053 | []() | [Solution]() | [Description]() |  |
-| 054 | []() | [Solution]() | [Description]() |  |
-| 055 | []() | [Solution]() | [Description]() |  |
-| 056 | []() | [Solution]() | [Description]() |  |
-| 057 | []() | [Solution]() | [Description]() |  |
-| 058 | []() | [Solution]() | [Description]() |  |
-| 059 | []() | [Solution]() | [Description]() |  |
-| 060 | []() | [Solution]() | [Description]() |  |
+| 051 | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021?language=cpp) | [Solution]() | [Description]() |  |
+| 052 | [금과 은 운반하기]() | [Solution](https://school.programmers.co.kr/learn/courses/30/lessons/86053?language=cpp) | [Description]() |  |
+| 053 | [공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391?language=cpp) | [Solution]() | [Description]() |  |
+| 054 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=cpp) | [Solution]() | [Description]() |  |
+| 055 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=cpp) | [Solution]() | [Description]() |  |
+| 056 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344?language=cpp) | [Solution]() | [Description]() |  |
+| 057 | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345?language=cpp) | [Solution]() | [Description]() |  |
+| 058 | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668?language=cpp) | [Solution]() | [Description]() |  |
+| 059 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669?language=cpp) | [Solution]() | [Description]() |  |
+| 060 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 061 | []() | [Solution]() | [Description]() |  |
-| 062 | []() | [Solution]() | [Description]() |  |
-| 063 | []() | [Solution]() | [Description]() |  |
-| 064 | []() | [Solution]() | [Description]() |  |
-| 065 | []() | [Solution]() | [Description]() |  |
-| 066 | []() | [Solution]() | [Description]() |  |
-| 067 | []() | [Solution]() | [Description]() |  |
-| 068 | []() | [Solution]() | [Description]() |  |
-| 069 | []() | [Solution]() | [Description]() |  |
-| 070 | []() | [Solution]() | [Description]() |  |
+| 061 | [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702?language=cpp) | [Solution]() | [Description]() |  |
+| 062 | [2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703?language=cpp) | [Solution]() | [Description]() |  |
+| 063 | [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=cpp) | [Solution]() | [Description]() |  |
+| 064 | [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500?language=cpp) | [Solution]() | [Description]() |  |
+| 065 | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797?language=cpp) | [Solution]() | [Description]() |  |
+| 066 | [억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475?language=cpp) | [Solution]() | [Description]() |  |
+| 067 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=cpp) | [Solution]() | [Description]() |  |
+| 068 | [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=cpp) | [Solution]() | [Description]() |  |
+| 069 | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=cpp) | [Solution]() | [Description]() |  |
+| 070 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 071 | []() | [Solution]() | [Description]() |  |
-| 072 | []() | [Solution]() | [Description]() |  |
-| 073 | []() | [Solution]() | [Description]() |  |
-| 074 | []() | [Solution]() | [Description]() |  |
-| 075 | []() | [Solution]() | [Description]() |  |
-| 076 | []() | [Solution]() | [Description]() |  |
-| 077 | []() | [Solution]() | [Description]() |  |
-| 078 | []() | [Solution]() | [Description]() |  |
-| 079 | []() | [Solution]() | [Description]() |  |
-| 080 | []() | [Solution]() | [Description]() |  |
+| 071 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988?language=cpp) | [Solution]() | [Description]() |  |
+| 072 | [아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186?language=cpp) | [Solution]() | [Description]() |  |
+| 073 | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=cpp) | [Solution]() | [Description]() |  |
+| 074 | [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=cpp) | [Solution]() | [Description]() |  |
+| 075 | [PCCP 기출문제 4번: 수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134?language=cpp) | [Solution]() | [Description]() |  |
+| 076 | [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705?language=cpp) | [Solution]() | [Description]() |  |
+| 077 | [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707?language=cpp) | [Solution]() | [Description]() |  |
+| 078 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709?language=cpp) | [Solution]() | [Description]() |  |
+| 079 | [PCCP 기출문제 4번: 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210?language=cpp) | [Solution]() | [Description]() |  |
+| 080 | [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 081 | []() | [Solution]() | [Description]() |  |
-| 082 | []() | [Solution]() | [Description]() |  |
-| 083 | []() | [Solution]() | [Description]() |  |
-| 084 | []() | [Solution]() | [Description]() |  |
-| 085 | []() | [Solution]() | [Description]() |  |
-| 086 | []() | [Solution]() | [Description]() |  |
-| 087 | []() | [Solution]() | [Description]() |  |
-| 088 | []() | [Solution]() | [Description]() |  |
+| 081 | [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481?language=cpp) | [Solution]() | [Description]() |  |
+| 082 | [숫자 야구](https://school.programmers.co.kr/learn/courses/30/lessons/451808?language=cpp) | [Solution]() | [Description]() |  |
+| 083 | [카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=cpp) | [Solution]() | [Description]() |  |
+| 084 | [발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375?language=cpp) | [Solution]() | [Description]() |  |
+| 085 | [최고 속도](https://school.programmers.co.kr/learn/courses/30/lessons/468376?language=cpp) | [Solution]() | [Description]() |  |
+| 086 | [보물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/468378?language=cpp) | [Solution]() | [Description]() |  |
+| 087 | [제곱 개수 배열](https://school.programmers.co.kr/learn/courses/30/lessons/468380?language=cpp) | [Solution]() | [Description]() |  |
+| 088 | [기차 선로](https://school.programmers.co.kr/learn/courses/30/lessons/468381?language=cpp) | [Solution]() | [Description]() |  |
