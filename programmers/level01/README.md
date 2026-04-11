@@ -20,7 +20,7 @@
 | 012 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=cpp) | [Solution]() | [Description]() |  |
 | 013 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=cpp) | [Solution](.solution/13_수박수박수박수박수박수.cpp) | [Description]() | ✅ |
 | 014 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=cpp) | [Solution](./solution/014_문자열을_정수로_바꾸기.cpp) | [Description]() | ✅ |
-| 015 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=cpp) | [Solution]() | [Description]() |  |
+| 015 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=cpp) | [Solution](./solution/015_시저_암호.cpp) | [Description]() | ✅ |
 | 016 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=cpp) | [Solution](./solution/016_약수의_합.cpp) | [Description]() | ✅ |
 | 017 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp) | [Solution]() | [Description]() |  |
 | 018 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) | [Solution](./solution/18_자릿수_더하기.cpp) | [Description]() | ✅ |
@@ -90,7 +90,7 @@
 | 067 | [가장 가까운 같은글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=cpp) | [Solution]() | [Description]() |  |
 | 068 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=cpp) | [Solution]() | [Description]() |  |
 | 069 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=cpp) | [Solution]() | [Description]() |  |
-| 070 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=cpp) | [Solution]() | [Description]() |  |
+| 070 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=cpp) | [Solution](./solution/070_둘만의_암호.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
