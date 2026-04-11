@@ -249,16 +249,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 191 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=cpp) | [Solution]() | [Description]() |  |
-| 192 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=cpp) | [Solution]() | [Description]() |  |
-| 193 | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921?language=cpp) | [Solution]() | [Description]() |  |
-| 194 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=cpp) | [Solution]() | [Description]() |  |
-| 195 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923?language=cpp) | [Solution]() | [Description]() |  |
-| 196 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924?language=cpp) | [Solution]() | [Description]() |  |
-| 197 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=cpp) | [Solution]() | [Description]() |  |
-| 198 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926?language=cpp) | [Solution]() | [Description]() |  |
-| 199 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=cpp) | [Solution]() | [Description]() |  |
-| 200 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928?language=cpp) | [Solution]() | [Description]() |  |
+| 191 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=cpp) | [Solution](./solution/191_콜라츠_수열_만들기.cpp) | [Description]() | ✅ |
+| 192 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=cpp) | [Solution](./solution/192_카운트_업.cpp) | [Description]() | ✅ |
+| 193 | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921?language=cpp) | [Solution](./solution/193_배열_만들기_2.cpp) | [Description]() | ✅ |
+| 194 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=cpp) | [Solution](./solution/194_수열과_구간_쿼리_4.cpp) | [Description]() | ✅ |
+| 195 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923?language=cpp) | [Solution](./solution/195_수열과_구간_쿼리_2.cpp) | [Description]() | ✅ |
+| 196 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924?language=cpp) | [Solution](./solution/196_수열과_구간_쿼리_3.cpp) | [Description]() | ✅ |
+| 197 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=cpp) | [Solution](./solution/197_수_조작하기_2.cpp) | [Description]() | ✅ |
+| 198 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926?language=cpp) | [Solution](./solution/198_수_조작하기1.cpp) | [Description]() | ✅ |
+| 199 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=cpp) | [Solution](./solution/199_마지막_두_원소.cpp) | [Description]() | ✅ |
+| 200 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928?language=cpp) | [Solution](./solution/200_이어_붙인_수.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |

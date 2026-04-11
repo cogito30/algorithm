@@ -30,12 +30,12 @@
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
 | 021 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=cpp) | [Solution](./solution/021_정수_제곱근_판별.cpp) | [Description]() | ✅ |
-| 022 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=cpp) | [Solution]() | [Description]() |  |
+| 022 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=cpp) | [Solution](./solution/022_제일_작은_수_제거하기.cpp) | [Description]() | ✅ |
 | 023 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=cpp) | [Solution](./solution/023_짝수와_홀수.cpp) | [Description]() | ✅ |
-| 024 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp) | [Solution]() | [Description]() |  |
-| 025 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=cpp) | [Solution]() | [Description]() |  |
+| 024 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp) | [Solution](./solution/024_최대공약수와_최소공배수.cpp) | [Description]() | ✅ |
+| 025 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=cpp) | [Solution](./solution/025_콜라츠_추측.cpp) | [Description]() | ✅ |
 | 026 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=cpp) | [Solution](./solution/026_평균구하기.cpp) | [Description]() | ✅ |
-| 027 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=cpp) | [Solution]() | [Description]() |  |
+| 027 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=cpp) | [Solution](./solution/027_하샤드_수.cpp) | [Description]() | ✅ |
 | 028 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=cpp) | [Solution](./solution/028_핸드폰_번호_가리기.cpp) | [Description]() | ✅ |
 | 029 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp) | [Solution](./solution/029_행렬의_덧셈.cpp) | [Description]() | ✅ |
 | 030 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=cpp) | [Solution](./solution/030_x만큼_간격이_있는_n개의_숫자.cpp) | [Description]() | ✅ |
@@ -94,7 +94,7 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 071 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=cpp) | [Solution]() | [Description]() |  |
+| 071 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=cpp) | [Solution](./solution/071_카드뭉치.cpp) | [Description]() | ✅ |
 | 072 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=cpp) | [Solution]() | [Description]() |  |
 | 073 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=cpp) | [Solution]() | [Description]() |  |
 | 074 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=cpp) | [Solution]() | [Description]() |  |
