@@ -25,5 +25,5 @@
 ## Record
 #### Programmers
 2026.04.04- 
-- Level00(C++): 63/240
+- Level00(C++): 73/240
 - Level01(C++): 40/88
