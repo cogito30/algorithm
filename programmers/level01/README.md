@@ -8,7 +8,7 @@
 | 004 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=cpp) | [Solution](./solution/04_같은_숫자는_싫어.cpp) | [Description]() | ✅ |
 | 005 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=cpp) | [Solution](./solution/05_나누어_떨어지는_숫자_배열.cpp) | [Description]() | ✅ |
 | 006 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=cpp) | [Solution](./solution/06_두_정수_사이의_합.cpp) | [Description]() | ✅ |
-| 007 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=cpp) | [Solution](./solution/07_문자열_내_마음대로_정렬하기.cpp) | [Description]() | ✅ |
+| 007 | [문자열46 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=cpp) | [Solution](./solution/07_문자열_내_마음대로_정렬하기.cpp) | [Description]() | ✅ |
 | 008 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=cpp) | [Solution](./solution/08_문자열_내_p와_y의_개수.cpp) | [Description]() | ✅ |
 | 009 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=cpp) | [Solution](./solution/09_문자열_내림차순으로_배치하기.cpp) | [Description]() | ✅ |
 | 010 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=cpp) | [Solution](./solution/10_문자열_다루기_기본.cpp) | [Description]() | ✅ |
