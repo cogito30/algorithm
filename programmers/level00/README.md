@@ -197,16 +197,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 151 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=cpp) | [Solution]() | [Description]() |  |
-| 152 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880?language=cpp) | [Solution]() | [Description]() |  |
-| 153 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881?language=cpp) | [Solution]() | [Description]() |  |
-| 154 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=cpp) | [Solution]() | [Description]() |  |
-| 155 | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883?language=cpp) | [Solution]() | [Description]() |  |
-| 156 | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884?language=cpp) | [Solution]() | [Description]() |  |
-| 157 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885?language=cpp) | [Solution]() | [Description]() |  |
-| 158 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=cpp) | [Solution]() | [Description]() |  |
-| 159 | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=cpp) | [Solution]() | [Description]() |  |
-| 160 | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888?language=cpp) | [Solution]() | [Description]() |  |
+| 151 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=cpp) | [Solution](./solution/151_길이에_따른_연산.cpp) | [Description]() | ✅ |
+| 152 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880?language=cpp) | [Solution](./solution/152_1로_만들기.cpp) | [Description]() | ✅ |
+| 153 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881?language=cpp) | [Solution](./solution/153_조건에_맞게_수열_변환하기_2.cpp) | [Description]() | ✅ |
+| 154 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=cpp) | [Solution](./solution/154_조건에_맞게_수열_변화하기_1.cpp) | [Description]() | ✅ |
+| 155 | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883?language=cpp) | [Solution](./solution/155_수열과_구간_쿼리_1.cpp) | [Description]() | ✅ |
+| 156 | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884?language=cpp) | [Solution](./solution/156_n보다_커질_때까지_더하기.cpp) | [Description]() | ✅ |
+| 157 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885?language=cpp) | [Solution](./solution/157_할_일_목록.cpp) | [Description]() | ✅ |
+| 158 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=cpp) | [Solution](./solution/158_5명씩.cpp) | [Description]() | ✅ |
+| 159 | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=cpp) | [Solution](./solution/159_홀수_vs_짝수.cpp) | [Description]() | ✅ |
+| 160 | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888?language=cpp) | [Solution](./solution/160_n개_간격의_원소들.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
