@@ -8,21 +8,21 @@
 | 004 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=cpp) | [Solution](./solution/04_같은_숫자는_싫어.cpp) | [Description]() | ✅ |
 | 005 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=cpp) | [Solution](./solution/05_나누어_떨어지는_숫자_배열.cpp) | [Description]() | ✅ |
 | 006 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=cpp) | [Solution](./solution/06_두_정수_사이의_합.cpp) | [Description]() | ✅ |
-| 007 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=cpp) | [Solution](./solution/07_문자열_내_마음대로_정렬하기.cpp) | [Description]() |  |
+| 007 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=cpp) | [Solution](./solution/07_문자열_내_마음대로_정렬하기.cpp) | [Description]() | ✅ |
 | 008 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=cpp) | [Solution](./solution/08_문자열_내_p와_y의_개수.cpp) | [Description]() | ✅ |
-| 009 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=cpp) | [Solution](./solution/09_문자열_내림차순으로_배치하기.cpp) | [Description]() |  |
+| 009 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=cpp) | [Solution](./solution/09_문자열_내림차순으로_배치하기.cpp) | [Description]() | ✅ |
 | 010 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=cpp) | [Solution](./solution/10_문자열_다루기_기본.cpp) | [Description]() | ✅ |
 
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
 | 011 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=cpp) | [Solution](./solution/011_서울에서_김서방_찾기.cpp) | [Description]() | ✅ |
-| 012 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=cpp) | [Solution]() | [Description]() |  |
+| 012 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=cpp) | [Solution](./solution/12_소수_찾기.cpp) | [Description]() | ✅ |
 | 013 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=cpp) | [Solution](.solution/13_수박수박수박수박수박수.cpp) | [Description]() | ✅ |
 | 014 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=cpp) | [Solution](./solution/014_문자열을_정수로_바꾸기.cpp) | [Description]() | ✅ |
 | 015 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=cpp) | [Solution](./solution/015_시저_암호.cpp) | [Description]() | ✅ |
 | 016 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=cpp) | [Solution](./solution/016_약수의_합.cpp) | [Description]() | ✅ |
-| 017 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp) | [Solution]() | [Description]() |  |
+| 017 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp) | [Solution](./solution/017_이상한_문자_만들기.cpp) | [Description]() | ✅ |
 | 018 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) | [Solution](./solution/18_자릿수_더하기.cpp) | [Description]() | ✅ |
 | 019 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=cpp) | [Solution](./solution/19_자연수_뒤집어_배열로_만들기.cpp) | [Description]() | ✅ |
 | 020 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=cpp) | [Solution](./solution/20_정수_내림차순으로_배치하기.cpp) | [Description]() | ✅ |
@@ -75,8 +75,8 @@
 | 055 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=cpp) | [Solution]() | [Description]() |  |
 | 056 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=cpp) | [Solution]() | [Description]() |  |
 | 057 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=cpp) | [Solution]() | [Description]() |  |
-| 058 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=cpp) | [Solution]() | [Description]() |  |
-| 059 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=cpp) | [Solution]() | [Description]() |  |
+| 058 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=cpp) | [Solution](./solution/058_삼총사.cpp) | [Description]() | ✅ |
+| 059 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=cpp) | [Solution](./solution/059_콜라_문제.cpp) | [Description]() | ✅ |
 | 060 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description | Done | 

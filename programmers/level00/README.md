@@ -223,16 +223,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 171 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899?language=cpp) | [Solution]() | [Description]() |  |
-| 172 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=cpp) | [Solution]() | [Description]() |  |
-| 173 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901?language=cpp) | [Solution]() | [Description]() |  |
-| 174 | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902?language=cpp) | [Solution]() | [Description]() |  |
-| 175 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903?language=cpp) | [Solution]() | [Description]() |  |
-| 176 | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904?language=cpp) | [Solution]() | [Description]() |  |
-| 177 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905?language=cpp) | [Solution]() | [Description]() |  |
-| 178 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906?language=cpp) | [Solution]() | [Description]() |  |
-| 179 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=cpp) | [Solution]() | [Description]() |  |
-| 180 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908?language=cpp) | [Solution]() | [Description]() |  |
+| 171 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899?language=cpp) | [Solution](./solution/171_카운트_다운.cpp) | [Description]() | ✅ |
+| 172 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=cpp) | [Solution](./solution/172_글자_지우기.cpp) | [Description]() | ✅ |
+| 173 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901?language=cpp) | [Solution](./solution/173_배열_만들기_1.cpp) | [Description]() | ✅ |
+| 174 | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902?language=cpp) | [Solution](./solution/174_문자_개수_세기.cpp) | [Description]() | ✅ |
+| 175 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903?language=cpp) | [Solution](./solution/175_qr_code.cpp) | [Description]() | ✅ |
+| 176 | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904?language=cpp) | [Solution](./solution/176_세로_읽기.cpp) | [Description]() | ✅ |
+| 177 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905?language=cpp) | [Solution](./solution/177_문자열_뒤집기.cpp) | [Description]() | ✅ |
+| 178 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906?language=cpp) | [Solution](./solution/178_접두사인지_확인하기.cpp) | [Description]() | ✅ |
+| 179 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=cpp) | [Solution](./solution/179_문자열의_앞의_n글자.cpp) | [Description]() | ✅ |
+| 180 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908?language=cpp) | [Solution](./solution/180_접미사인지_확인하기.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
