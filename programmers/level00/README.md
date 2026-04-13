@@ -210,16 +210,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 161 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889?language=cpp) | [Solution]() | [Description]() |  |
-| 162 | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=cpp) | [Solution]() | [Description]() |  |
-| 163 | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891?language=cpp) | [Solution]() | [Description]() |  |
-| 164 | [n번쨰 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=cpp) | [Solution]() | [Description]() |  |
-| 165 | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893?language=cpp) | [Solution]() | [Description]() |  |
-| 166 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894?language=cpp) | [Solution]() | [Description]() |  |
-| 167 | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895?language=cpp) | [Solution]() | [Description]() |  |
-| 168 | [첫 번쨰로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896?language=cpp) | [Solution]() | [Description]() |  |
-| 169 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897?language=cpp) | [Solution]() | [Description]() |  |
-| 170 | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898?language=cpp) | [Solution]() | [Description]() |  |
+| 161 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889?language=cpp) | [Solution](./solution/161_n번째_원소까지.cpp) | [Description]() | ✅ |
+| 162 | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=cpp) | [Solution](./solution/162_왼쪽_오른쪽.cpp) | [Description]() | ✅ |
+| 163 | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891?language=cpp) | [Solution](./solution/163_순서_바꾸기.cpp) | [Description]() | ✅ |
+| 164 | [n번쨰 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=cpp) | [Solution](./solution/164_n번째_원소부터.cpp) | [Description]() | ✅ |
+| 165 | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893?language=cpp) | [Solution](./solution/165_배열_조각하기.cpp) | [Description]() | ✅ |
+| 166 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894?language=cpp) | [Solution](./solution/166_2의_영역.cpp) | [Description]() | ✅ |
+| 167 | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895?language=cpp) | [Solution](./solution/167_배열_만들기_3.cpp) | [Description]() | ✅ |
+| 168 | [첫 번쨰로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896?language=cpp) | [Solution](./solution/168_첫_번째로_나오는_음수.cpp) | [Description]() | ✅ |
+| 169 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897?language=cpp) | [Solution](./solution/169_리스트_자르기.cpp) | [Description]() | ✅ |
+| 170 | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898?language=cpp) | [Solution](./solution/170_가까운_1_찾기.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
