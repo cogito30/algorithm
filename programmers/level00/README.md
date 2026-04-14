@@ -184,16 +184,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 141 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=cpp) | [Solution]() | [Description]() |  |
-| 142 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=cpp) | [Solution]() | [Description]() |  |
-| 143 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871?language=cpp) | [Solution]() | [Description]() |  |
-| 144 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872?language=cpp) | [Solution]() | [Description]() |  |
-| 145 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=cpp) | [Solution]() | [Description]() |  |
-| 146 | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874?language=cpp) | [Solution]() | [Description]() |  |
-| 147 | [배열에서 문자열 대소문자로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875?language=cpp) | [Solution]() | [Description]() |  |
-| 148 | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876?language=cpp) | [Solution]() | [Description]() |  |
-| 149 | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=cpp) | [Solution]() | [Description]() |  |
-| 150 | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878?language=cpp) | [Solution]() | [Description]() |  |
+| 141 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=cpp) | [Solution](./solution/141_공백으로_구분하기_1.cpp) | [Description]() | ✅ |
+| 142 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=cpp) | [Solution](./solution/142_ad_제거하기.cpp) | [Description]() | ✅ |
+| 143 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871?language=cpp) | [Solution](./solution/143_문자열이_몇_번_등장하는지_세기.cpp) | [Description]() | ✅ |
+| 144 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872?language=cpp) | [Solution](./solution/144_특정_문자열로_끝나는_가장_긴_부분_문자열_찾기.cpp) | [Description]() | ✅ |
+| 145 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=cpp) | [Solution](./solution/145_특정한_문자를_대문자로_바꾸기.cpp) | [Description]() | ✅ |
+| 146 | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874?language=cpp) | [Solution](./solution/146_A_강조하기.cpp) | [Description]() | ✅ |
+| 147 | [배열에서 문자열 대소문자로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875?language=cpp) | [Solution](./solution/147_배열에서_문자열_대소문자로_변환하기.cpp) | [Description]() | ✅ |
+| 148 | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876?language=cpp) | [Solution](./solution/148_소문자로_바꾸기.cpp) | [Description]() | ✅ |
+| 149 | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=cpp) | [Solution](./solution/149_대문자로_바꾸기.cpp) | [Description]() | ✅ |
+| 150 | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878?language=cpp) | [Solution](./solution/150_원하는_문자열_찾기.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
