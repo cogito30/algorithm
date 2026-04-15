@@ -62,7 +62,7 @@
 | 045 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=cpp) | [Solution](./solution/045_내적.cpp) | [Description]() | ✅ |
 | 046 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=cpp) | [Solution]() | [Description]() |  |
 | 047 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=cpp) | [Solution](./solution/047_음양_더하기.cpp) | [Description]() | ✅ |
-| 048 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) | [Solution]() | [Description]() |  |
+| 048 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) | [Solution](./solution/048_로또의_최고_순위와_최저_순위.cpp) | [Description]() | ✅ |
 | 049 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=cpp) | [Solution](./solution/049_약수의_개수와_덧셈.cpp) | [Description]() | ✅ |
 | 050 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=cpp) | [Solution]() | [Description]() |  |
 
