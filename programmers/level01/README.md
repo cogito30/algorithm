@@ -45,12 +45,12 @@
 | 031 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=cpp) | [Solution](./solution/031_직사각형_별찍기.cpp) | [Description]() | ✅ |
 | 032 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=cpp) | [Solution](./solution/032_소수_만들기.cpp) | [Description]() | ✅ |
 | 033 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=cpp) | [Solution](./solution/033_예산.cpp) | [Description]() | ✅ |
-| 034 | [1차: 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=cpp) | [Solution]() | [Description]() |  |
+| 034 | [1차: 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=cpp) | [Solution](./solution/034_1차_비밀지도.cpp) | [Description]() | ✅ |
 | 035 | [1차: 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=cpp) | [Solution]() | [Description]() |  |
 | 036 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=cpp) | [Solution](./solution/036_완주하지_못한_선수.cpp) | [Description]() | ✅ |
 | 037 | [K번쨰수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=cpp) | [Solution](./solution/037_K번째수.cpp) | [Description]() | ✅ |
 | 038 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp) | [Solution](./solution/038_모의고사.cpp) | [Description]() | ✅ |
-| 039 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) | [Solution]() | [Description]() |  |
+| 039 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) | [Solution](./solution/039_체육복.cpp) | [Description]() | ✅ |
 | 040 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=cpp) | [Solution]() | [Description]() |  |
 
 | No | Question | Solution | Description |  Done | 
