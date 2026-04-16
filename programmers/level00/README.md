@@ -171,16 +171,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 131 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859?language=cpp) | [Solution]() | [Description]() |  |
-| 132 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=cpp) | [Solution]() | [Description]() |  |
-| 133 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=cpp) | [Solution]() | [Description]() |  |
-| 134 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862?language=cpp) | [Solution]() | [Description]() |  |
-| 135 | [my_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=cpp) | [Solution]() | [Description]() |  |
-| 136 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=cpp) | [Solution]() | [Description]() |  |
-| 137 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865?language=cpp) | [Solution]() | [Description]() |  |
-| 138 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866?language=cpp) | [Solution]() | [Description]() |  |
-| 139 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867?language=cpp) | [Solution]() | [Description]() |  |
-| 140 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=cpp) | [Solution]() | [Description]() |  |
+| 131 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859?language=cpp) | [Solution](./solution/131_배열_만들기_6.cpp) | [Description]() | ✅ |
+| 132 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=cpp) | [Solution](./solution/132_빈_배열에_추가_삭제하기.cpp) | [Description]() | ✅ |
+| 133 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=cpp) | [Solution](./solution/133_배열의_원소만큼_추가하기.cpp) | [Description]() | ✅ |
+| 134 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862?language=cpp) | [Solution](./solution/134_세_개의_구분자.cpp) | [Description]() | ✅ |
+| 135 | [my_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=cpp) | [Solution](./solution/135_my_string.cpp) | [Description]() | ✅ |
+| 136 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=cpp) | [Solution](./solution/136_문자열_바꿔서_찾기.cpp) | [Description]() | ✅ |
+| 137 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865?language=cpp) | [Solution](./solution/137_간단한_식_계산하기.cpp) | [Description]() | ✅ |
+| 138 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866?language=cpp) | [Solution](./solution/138_문자열_잘라서_정렬하기.cpp) | [Description]() | ✅ |
+| 139 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867?language=cpp) | [Solution](./solution/139_x_사이의_개수.cpp) | [Description]() | ✅ |
+| 140 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=cpp) | [Solution](./solution/140_공백으로_구분하기_2.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
