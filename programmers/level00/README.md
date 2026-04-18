@@ -145,16 +145,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 111 | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839?language=cpp) | [Solution]() | [Description]() |  |
-| 112 | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840?language=cpp) | [Solution]() | [Description]() |  |
-| 113 | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841?language=cpp) | [Solution]() | [Description]() |  |
-| 114 | [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842?language=cpp) | [Solution]() | [Description]() |  |
-| 115 | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=cpp) | [Solution]() | [Description]() |  |
-| 116 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844?language=cpp) | [Solution]() | [Description]() |  |
-| 117 | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=cpp) | [Solution]() | [Description]() |  |
-| 118 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846?language=cpp) | [Solution]() | [Description]() |  |
-| 119 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=cpp) | [Solution]() | [Description]() |  |
-| 120 | [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848?language=cpp) | [Solution]() | [Description]() |  |
+| 111 | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839?language=cpp) | [Solution](./solution/111_주사위_게임_1.cpp) | [Description]() | ✅ |
+| 112 | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840?language=cpp) | [Solution](./solution/112_정수_찾기.cpp) | [Description]() | ✅ |
+| 113 | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841?language=cpp) | [Solution](./solution/113_꼬리_문자열.cpp) | [Description]() | ✅ |
+| 114 | [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842?language=cpp) | [Solution](./solution/114_부분_문자열.cpp) | [Description]() | ✅ |
+| 115 | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=cpp) | [Solution](./solution/115_부분_문자열인지_확인하기.cpp) | [Description]() | ✅ |
+| 116 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844?language=cpp) | [Solution](./solution/116_배열의_원소_삭제하기.cpp) | [Description]() | ✅ |
+| 117 | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=cpp) | [Solution](./solution/117_문자열로_변환.cpp) | [Description]() | ✅ |
+| 118 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846?language=cpp) | [Solution](./solution/118_두_수의_합.cpp) | [Description]() | ✅ |
+| 119 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=cpp) | [Solution](./solution/119_0_떼기.cpp) | [Description]() | ✅ |
+| 120 | [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848?language=cpp) | [Solution](./solution/120_문자열을_정수로_변환하기.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
