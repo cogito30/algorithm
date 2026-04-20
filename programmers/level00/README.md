@@ -93,16 +93,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 071 | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=cpp) | [Solution]() | [Description]() |  |
-| 072 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=cpp) | [Solution]() | [Description]() |  |
-| 073 | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=cpp) | [Solution]() | [Description]() |  |
-| 074 | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890?language=cpp) | [Solution]() | [Description]() |  |
-| 075 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891?language=cpp) | [Solution]() | [Description]() |  |
-| 076 | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=cpp) | [Solution]() | [Description]() |  |
-| 077 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=cpp) | [Solution]() | [Description]() |  |
-| 078 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894?language=cpp) | [Solution]() | [Description]() |  |
-| 079 | [안덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=cpp) | [Solution]() | [Description]() |  |
-| 080 | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896?language=cpp) | [Solution]() | [Description]() |  |
+| 071 | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=cpp) | [Solution](./solution/071_k의_개수.cpp) | [Description]() | ✅ |
+| 072 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=cpp) | [Solution](./solution/072_중복된_문자_제거.cpp) | [Description]() | ✅ |
+| 073 | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=cpp) | [Solution](./solution/073_삼각형의_완성조건_1.cpp) | [Description]() | ✅ |
+| 074 | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890?language=cpp) | [Solution](./solution/074_가까운_수.cpp) | [Description]() | ✅ |
+| 075 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891?language=cpp) | [Solution](./solution/075_369게임.cpp) | [Description]() | ✅ |
+| 076 | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=cpp) | [Solution](./solution/076_암호_해독.cpp) | [Description]() | ✅ |
+| 077 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=cpp) | [Solution](./solution/077_대문자와_소문자.cpp) | [Description]() | ✅ㄴ |
+| 078 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894?language=cpp) | [Solution](./solution/078_영어가_싫어요.cpp) | [Description]() | ✅ |
+| 079 | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=cpp) | [Solution](./solution/079_인덱스_바꾸기.cpp) | [Description]() | ✅ |
+| 080 | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896?language=cpp) | [Solution](./solution/080_한_번만_등장한_문자.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
