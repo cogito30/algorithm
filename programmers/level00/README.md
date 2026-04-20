@@ -106,16 +106,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 081 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=cpp) | [Solution]() | [Description]() |  |
-| 082 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=cpp) | [Solution]() | [Description]() |  |
-| 083 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=cpp) | [Solution]() | [Description]() |  |
-| 084 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=cpp) | [Solution]() | [Description]() |  |
-| 085 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=cpp) | [Solution]() | [Description]() |  |
-| 086 | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=cpp) | [Solution]() | [Description]() |  |
-| 087 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=cpp) | [Solution]() | [Description]() |  |
-| 088 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906?language=cpp) | [Solution]() | [Description]() |  |
-| 089 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=cpp) | [Solution]() | [Description]() |  |
-| 090 | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908?language=cpp) | [Solution]() | [Description]() |  |
+| 081 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=cpp) | [Solution](./solution/081_약수_구하기.cpp) | [Description]() | ✅ |
+| 082 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=cpp) | [Solution](./solution/082_편지.cpp) | [Description]() | ✅ |
+| 083 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=cpp) | [Solution](./solution/083_가장_큰_수_찾기.cpp) | [Description]() | ✅ |
+| 084 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=cpp) | [Solution](./solution/084_문자열_계산하기.cpp) | [Description]() | ✅ |
+| 085 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=cpp) | [Solution](./solution/085_배열의_유사도.cpp) | [Description]() | ✅ |
+| 086 | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=cpp) | [Solution](./solution/086_숫자_찾기.cpp) | [Description]() | ✅ |
+| 087 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=cpp) | [Solution](./solution/087_n의_배수_고르기.cpp) | [Description]() | ✅ |
+| 088 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906?language=cpp) | [Solution](./solution/088_자릿수_더하기.cpp) | [Description]() | ✅ |
+| 089 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=cpp) | [Solution](./solution/089_OX퀴즈.cpp) | [Description]() | ✅ |
+| 090 | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908?language=cpp) | [Solution](./solution/090_문자열안에_문자열.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
