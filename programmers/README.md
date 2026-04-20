@@ -67,15 +67,15 @@
 
 20260418(SAT)
 - Level00(20): 111-130
-- Level01(00): 
+- Level01(00): X
 
 20260419(SUN)
-- Level00(00): 
-- Level01(00): 
+- Level00(00): X
+- Level01(00): X
 
 20260420(MON)
-- Level00(00): 
-- Level01(00): 
+- Level00(10): 101-110
+- Level01(00): X
 
 20260421(TUE)
 - Level00(00): 
