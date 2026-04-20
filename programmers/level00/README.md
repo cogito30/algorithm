@@ -119,16 +119,16 @@
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
-| 091 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909?language=cpp) | [Solution]() | [Description]() |  |
-| 092 | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910?language=cpp) | [Solution]() | [Description]() |  |
-| 093 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911?language=cpp) | [Solution]() | [Description]() |  |
-| 094 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=cpp) | [Solution]() | [Description]() |  |
-| 095 | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913?language=cpp) | [Solution]() | [Description]() |  |
-| 096 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921?language=cpp) | [Solution]() | [Description]() |  |
-| 097 | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=cpp) | [Solution]() | [Description]() |  |
-| 098 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923?language=cpp) | [Solution]() | [Description]() |  |
-| 099 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=cpp) | [Solution]() | [Description]() |  |
-| 100 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=cpp) | [Solution]() | [Description]() |  |
+| 091 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909?language=cpp) | [Solution](./solution/091_제곱수_판별하기.cpp) | [Description]() | ✅ |
+| 092 | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910?language=cpp) | [Solution](./solution/092_세균_증식.cpp) | [Description]() | ✅ |
+| 093 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911?language=cpp) | [Solution](./solution/093_문자열_정렬하기_2.cpp) | [Description]() | ✅ |
+| 094 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=cpp) | [Solution](./solution/094_7의_개수.cpp) | [Description]() | ✅ |
+| 095 | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913?language=cpp) | [Solution](./solution/095_잘라서_배열로_저장하기.cpp) | [Description]() | ✅ |
+| 096 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921?language=cpp) | [Solution](./solution/096_문자열_밀기.cpp) | [Description]() | ✅ |
+| 097 | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=cpp) | [Solution](./solution/097_종이_자르기.cpp) | [Description]() | ✅ |
+| 098 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923?language=cpp) | [Solution](./solution/098_연속된_수의_합.cpp) | [Description]() | ✅ |
+| 099 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=cpp) | [Solution](./solution/099_다음에_올_숫자.cpp) | [Description]() | ✅ |
+| 100 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=cpp) | [Solution](./solution/100_옹알이_1.cpp) | [Description]() | ✅ |
 
 | No | Question | Solution | Description | Done | 
 | :--: | :--: | :--: | :--: | :--: |
